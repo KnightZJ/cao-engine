@@ -9,3 +9,6 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+run.bat
+build/
+SFML-2.5.1/
